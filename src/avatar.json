@@ -3,63 +3,63 @@
     "id": 1,
     "name": "Aang",
     "image": "https://avatar.fandom.com/wiki/Aang?file=Aang_at_Jasmine_Dragon.png",
-    "occupation": "AirBender",
+    "profession": "AirBender",
     "location": "Southern Air Temple"
   },
   {
     "id": 2,
     "name": "Sokka",
     "image": "https://avatar.fandom.com/wiki/Sokka?file=Sokka.png",
-    "occupation": "Captain Boomerang",
+    "profession": "Captain Boomerang",
     "location": "Southern Water Tribe"
   },
   {
     "id": 3,
     "name": "Prince Zukko",
     "image": "https://avatar.fandom.com/wiki/Zuko?file=Zuko.png",
-    "occupation": "Fire Bender",
+    "profession": "Fire Bender",
     "location": "Fire Nation Capital"
   },
   {
     "id": 4,
     "name": "Princess Azula",
-    "image": "https://avatar.fandom.com/wiki/Azula?file=Azula.png"
-    "occupation": "Fire Bender",
+    "image": "https://avatar.fandom.com/wiki/Azula?file=Azula.png",
+    "profession": "Fire Bender",
     "location": "Fire Nation Capital"
   },
   {
     "id": 5,
     "name": "Korra",
     "image": "https://avatar.fandom.com/wiki/Korra?file=Korra.png",
-    "occupation": "Water Bender",
+    "profession": "Water Bender",
     "location": "Southern Water Tribe"
   },
   {
     "id": 6,
     "name": "Toph",
     "image": "https://avatar.fandom.com/wiki/Toph_Beifong?file=Toph_Beifong.png",
-    "occupation": "Earth Bender",
+    "profession": "Earth Bender",
     "location": "Earth Kingdom"
   },
   {
     "id": 7,
     "name": "Suki",
     "image": "https://avatar.fandom.com/wiki/Suki?file=Suki.png",
-    "occupation": "Chi Blocker",
+    "profession": "Chi Blocker",
     "location": "Earth Kingdom"
   },
   {
     "id": 8,
     "name": "Appa",
     "image": "https://avatar.fandom.com/wiki/Appa?file=Appa_flying.png",
-    "occupation": "Air Nomad",
+    "profession": "Air Nomad",
     "location": "Eastern Air Temple"
   },
   {
     "id": 9,
     "name": "Iroh",
     "image": "https://avatar.fandom.com/wiki/Iroh?file=Iroh_smiling.png",
-    "occupation": "Fire Bending Instructor",
+    "profession": "Fire Bending Instructor",
     "location": "Fire Nation Capital"
   }
   
