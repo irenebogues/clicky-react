@@ -22,7 +22,7 @@ class App extends Component {
   render() {
     return (
       <Wrapper>
-        <Title>Clicky-React App</Title>
+        <Title>Avatar Clicky-React App</Title>
         {this.state.friends.map(friend => (
           <FriendCard
             removeFriend={this.removeFriend}
